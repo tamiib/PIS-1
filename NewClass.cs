@@ -6,5 +6,6 @@ namespace ConsoleApp3
 {
     class NewClass
     {
+        //Komentar 2
     }
 }
